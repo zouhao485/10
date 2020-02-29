@@ -15,7 +15,7 @@ namespace WindowsFormsApp10
         public Form1()
         {
             InitializeComponent();
-            ///动点d
+            ///动点d给发该符号链接
 
         }
     }
