@@ -15,6 +15,8 @@ namespace WindowsFormsApp10
         public Form1()
         {
             InitializeComponent();
+            ///yjhgbgf
+
         }
     }
 }
